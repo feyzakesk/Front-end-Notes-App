@@ -1,0 +1,1 @@
+!hot(./images/screenshot.png)
